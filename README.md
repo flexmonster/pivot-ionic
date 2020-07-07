@@ -1,10 +1,33 @@
-# pivot-ionic
+# Flexmonster Pivot Table & Charts integration with Ionic framework
 
 [![Flexmonster Pivot Table & Charts](https://www.flexmonster.com/fm_uploads/2020/06/GitHub_fm.png)](https://flexmonster.com)
 Website: www.flexmonster.com
 
+## Flexmonster Pivot Table & Charts
 
-Sample project for integrating Flexmonster into ionic v3 project.
-Steps to start:
-- npm install
-- npm run start
+Flexmonster Pivot is a powerful Javascript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources fast and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
+
+This README contains the following sections:
+- [Prerequisites](#prerequisites)
+- [Installation & Usage](#installation-and-usage)
+
+## Prerequisites <a id="prerequisites"></a>
+
+To run a sample application, you will need Node.js and npm. [Get it here](https://docs.npmjs.com/getting-started/installing-node) if it's not already installed on your machine.
+
+## Installation & Usage <a id="installation-and-usage"></a>
+1) Download the `.zip` archive with the sample project or clone it with the following command:
+```bash
+git clone https://github.com/flexmonster/pivot-ionic.git pivot-ionic
+cd pivot-ionic
+```
+2) Install npm packages described in the `package.json` file:
+```bash
+npm install
+```
+3) Run the sample application with the following command:
+```bash
+npm run start
+```
+
+For more details refer to the [Flexmonster integration with Ionic](https://www.flexmonster.com/doc/integration-with-ionic/) tutorial.
