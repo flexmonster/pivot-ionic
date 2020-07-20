@@ -1,4 +1,4 @@
-# Flexmonster Pivot Table & Charts integration with Ionic Angular framework
+# Flexmonster Pivot Table & Charts integration with Ionic framework
 
 [![Flexmonster Pivot Table & Charts](https://www.flexmonster.com/fm_uploads/2020/06/GitHub_fm.png)](https://flexmonster.com)
 Website: www.flexmonster.com
@@ -7,7 +7,7 @@ Website: www.flexmonster.com
 
 Flexmonster Pivot is a powerful Javascript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources fast and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
 
-This README contains the following sections:
+This repository holds the source code for a simple [Ionic Angular](https://ionicframework.com/docs/angular/overview) and Flexmonster Pivot Table & Charts project:
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
