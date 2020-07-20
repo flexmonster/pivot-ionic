@@ -30,4 +30,4 @@ npm install
 npm run start
 ```
 
-For more details refer to the [Flexmonster integration with Ionic](https://www.flexmonster.com/doc/integration-with-ionic/) tutorial.
+For more details, refer to the [Flexmonster integration with Ionic](https://www.flexmonster.com/doc/integration-with-ionic/) tutorial.
