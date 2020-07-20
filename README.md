@@ -9,13 +9,14 @@ Flexmonster Pivot is a powerful Javascript tool for interactive web reporting. I
 
 This README contains the following sections:
 - [Prerequisites](#prerequisites)
-- [Installation & Usage](#installation-and-usage)
+- [Installation](#installation)
+- [Usage](#usage)
 
 ## Prerequisites <a id="prerequisites"></a>
 
 To run a sample application, you will need Node.js and npm. [Get it here](https://docs.npmjs.com/getting-started/installing-node) if it's not already installed on your machine.
 
-## Installation & Usage <a id="installation-and-usage"></a>
+## Installation<a id="installation"></a>
 1) Download the `.zip` archive with the sample project or clone it with the following command:
 ```bash
 git clone https://github.com/flexmonster/pivot-ionic.git pivot-ionic
@@ -30,4 +31,5 @@ npm install
 npm run start
 ```
 
-For more details, refer to the [Flexmonster integration with Ionic](https://www.flexmonster.com/doc/integration-with-ionic/) tutorial.
+## Usage <a id="usage"></a>
+For details on usage, refer to the [Flexmonster integration with Ionic](https://www.flexmonster.com/doc/integration-with-ionic/) tutorial.
