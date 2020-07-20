@@ -1,4 +1,4 @@
-# Flexmonster Pivot Table & Charts integration with Ionic framework
+# Flexmonster Pivot Table & Charts integration with Ionic Angular framework
 
 [![Flexmonster Pivot Table & Charts](https://www.flexmonster.com/fm_uploads/2020/06/GitHub_fm.png)](https://flexmonster.com)
 Website: www.flexmonster.com
@@ -14,7 +14,7 @@ This README contains the following sections:
 
 ## Prerequisites <a id="prerequisites"></a>
 
-To run a sample application, you will need Node.js and npm. [Get it here](https://docs.npmjs.com/getting-started/installing-node) if it's not already installed on your machine.
+To run a sample Ionic Angular application, you will need Node.js and npm. [Get it here](https://docs.npmjs.com/getting-started/installing-node) if it's not already installed on your machine.
 
 ## Installation<a id="installation"></a>
 1) Download the `.zip` archive with the sample project or clone it with the following command:
