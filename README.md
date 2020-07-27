@@ -14,7 +14,7 @@ This repository holds the source code for a simple [Ionic Angular](https://ionic
 
 ## Prerequisites <a id="prerequisites"></a>
 
-To run a sample application with Ionic pivot table, you will need Node.js and npm. [Get it here](https://docs.npmjs.com/getting-started/installing-node) if it's not already installed on your machine.
+To run a sample application with the Ionic pivot table, you will need Node.js and npm. [Get it here](https://docs.npmjs.com/getting-started/installing-node) if it's not already installed on your machine.
 
 ## Installation<a id="installation"></a>
 1) Download the `.zip` archive with the sample project or clone it with the following command:
