@@ -1,5 +1,5 @@
 {
-  "name": "testPr",
+  "name": "pivot-ionic",
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "http://ionicframework.com/",
@@ -31,8 +31,7 @@
   },
   "devDependencies": {
     "@ionic/app-scripts": "3.2.4",
-    "flexmonster": "^2.7.23",
-    "ng-flexmonster": "^2.7.23",
+    "ng-flexmonster": "latest",
     "typescript": "2.6.2"
   },
   "description": "An Ionic project"
