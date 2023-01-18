@@ -1,23 +1,15 @@
-import { NgModule} from '@angular/core';
+import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { IonicApp, IonicModule } from 'ionic-angular';
-import { MyApp } from './app.component';
-
+import { RouteReuseStrategy } from '@angular/router';
 import { FlexmonsterPivotModule } from 'ng-flexmonster';
+import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
+
+import { AppComponent } from './app.component';
 
 @NgModule({
-  declarations: [
-    MyApp
-  ],
-  imports: [
-    BrowserModule,
-    FlexmonsterPivotModule,
-    IonicModule.forRoot(MyApp)
-  ],
-  bootstrap: [IonicApp],
-  entryComponents: [
-    MyApp
-  ],
-  providers: []
+  declarations: [AppComponent],
+  imports: [FlexmonsterPivotModule, BrowserModule, IonicModule.forRoot()],
+  providers: [{ provide: RouteReuseStrategy, useClass: IonicRouteStrategy }],
+  bootstrap: [AppComponent],
 })
-export class AppModule {}
+export class AppModule { }

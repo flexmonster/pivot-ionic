@@ -1,5 +1,7 @@
 {
   "name": "pivot-ionic",
-  "integrations": {},
-  "type": "ionic-angular"
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
 }
