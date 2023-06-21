@@ -7,28 +7,30 @@ Website: www.flexmonster.com
 
 Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources quickly and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
 
-This repository holds the source code for a simple [Ionic Angular](https://ionicframework.com/docs/angular/overview) and Flexmonster Pivot Table & Charts project:
+This repository contains a sample [Ionic Angular](https://ionicframework.com/docs/angular/overview) project for Flexmonster Pivot Table & Charts.
+
+Table of contents:
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Related Flexmonster docs](#related-flexmonster-docs)
 
 ## Prerequisites <a id="prerequisites"></a>
 
-To run a sample application with the Ionic pivot table, you will need Node.js and npm. [Get them here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if they're not already installed on your machine.
+- [Node.js](https://nodejs.org/en/)
 
 ## Installation<a id="installation"></a>
-1) Download the `.zip` archive with the sample project or clone it with the following command:
+1) Download a `.zip` archive with the sample project or clone it with the following command:
 ```bash
 git clone https://github.com/flexmonster/pivot-ionic && cd pivot-ionic
 ```
-2) Install npm packages described in the `package.json` file:
+2) Install the npm dependencies described in `package.json`:
 ```bash
 npm install
 ```
-3) Run the sample application with the following command:
+3) Run the sample project:
 ```bash
 npm run start
 ```
 
-## Usage <a id="usage"></a>
-For details on usage, refer to the [Flexmonster integration with Ionic](https://www.flexmonster.com/doc/integration-with-ionic/) tutorial.
+## Related Flexmonster docs <a id="related-flexmonster-docs"></a>
+- [Integration with Ionic](https://www.flexmonster.com/doc/integration-with-ionic/) — learn how to integrate Flexmonster into an Ionic project.
