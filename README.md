@@ -19,7 +19,7 @@ Table of contents:
 - [Node.js](https://nodejs.org/en/)
 
 ## Installation<a id="installation"></a>
-1) Download a `.zip` archive with the sample project or clone it with the following command:
+1) Download a `.zip` archive with the sample project or clone it from GitHub with the following command:
 ```bash
 git clone https://github.com/flexmonster/pivot-ionic && cd pivot-ionic
 ```
